@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "try make first code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iusachev/backend-project-lvl1.git"
+  },
+  "author": "iusachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iusachev/backend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/iusachev/backend-project-lvl1#readme"
+}
