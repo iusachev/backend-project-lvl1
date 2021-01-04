@@ -18,14 +18,13 @@ while (cicle < 3) {
 
     if (gcd(a,b) != answer ) {
             console.log('Your answer: ' + answer)
-            console.log(answer + 'is wrong answer ;(. Correct answer was ' + gcd(a,b))
+            console.log(answer + 'is wrong answer ;(. Correct answer was' + gcd(a,b))
             console.log("Let's try again, " + name)
             break
         }
     console.log('Your answer: ' + answer)
     console.log('Correct!')
     cicle++
-
 if(cicle===3) {
     console.log('Congratulations, ' + name)
 }
